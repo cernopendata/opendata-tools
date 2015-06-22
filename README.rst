@@ -2,8 +2,9 @@
  CERN Open Data Tools
 ======================
 
-This page lists various software tools that are interesting for
-working with `CERN open data <http://opendata.cern.ch/>`_:
+Many of the tools you will find on the `CERN Open Data Portal
+<http://opendata.cern.ch>`_ are hosted on GitHub.  Below is a curated
+list of all these repositories.
 
 `ayrodrig <https://github.com/ayrodrig/>`_ / `pattuples2010 <https://github.com/ayrodrig/pattuples2010>`_
   Software producing PAT tuples from CMS 2010 AOD primary datasets.

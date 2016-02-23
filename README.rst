@@ -6,6 +6,9 @@ Many of the tools you will find on the `CERN Open Data Portal
 <http://opendata.cern.ch>`_ are hosted on GitHub.  Below is a curated
 list of all these repositories.
 
+`katilp <https://github.com/katilp/>`_ / `pattuples2011 <https://github.com/katilp/pattuples2011>`_
+  Software producing PAT tuples from CMS 2011 AOD primary datasets.
+
 `ayrodrig <https://github.com/ayrodrig/>`_ / `pattuples2010 <https://github.com/ayrodrig/pattuples2010>`_
   Software producing PAT tuples from CMS 2010 AOD primary datasets.
 
